@@ -1,4 +1,4 @@
-# basic-dockerfile for the roadmap.sh site devops section
+# Basic-dockerfile for the roadmap.sh site DevOps section
 
 ## How To
 
